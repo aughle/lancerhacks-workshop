@@ -2,4 +2,5 @@
 
 Claude: I like writing programs.
 Mr. Freeze: Freezing Batman
-Tony: I like Elixir language. 
+
+Fletcher: A typical cumulus cloud weighs about a million tonnes.
