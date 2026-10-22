@@ -2,3 +2,4 @@
 
 Claude: I like writing programs.
 Mr. Freeze: Freezing Batman
+August: Fun fact, I wear glasses
